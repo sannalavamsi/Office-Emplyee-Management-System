@@ -1,4 +1,6 @@
 # Office-Emplyee-Management-System---Django
+This project is based on CRUD Methods. where users can add an Employee, read all Employees, filter Employees, Delete an Employee.
+
 TechStack Used:
 
  1. Framework: Django = 4.1
