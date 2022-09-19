@@ -54,7 +54,8 @@ def filter_emp(request):
         role = request.POST['role']
         emps = Employee.objects.all()
         if name:
-            emps = emps.filter(Q(first_name__icontains = name) | Q(last_name__icontains = name))
+            emps = emps.filter(Q(first_name__icontains = name) | Q(last_name__icontains = name)) #Q objects are helpfull for complex queries because they can be combined using logical operators and(&), or(|), negation(~)
+
         if dept:
             emps = emps.filter(dept__name__icontains = dept)
         if role:
