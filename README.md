@@ -1,10 +1,13 @@
 # Office-Emplyee-Management-System---Django
-This project is based on CRUD Methods. where users can add an Employee, read all Employees, filter Employees, Delete an Employee.
+
+By this Project we can create information like Personal details and Hiring date about all the Employees. 
+Used CRUD Operations so that the admin can Create, View , Filter, Delete Employes based on the requirement. 
 
 TechStack Used:
 
  1. Framework: Django = 4.1
  2. Language: Python = 3.10.1
+ 3. DataBase : SQLite
 
 Commands To Create Project:
  1. create a python virtual environment
