@@ -2,7 +2,7 @@
 
 https://vamsi-empmanagement.herokuapp.com/
 
-Built a Office Emplyee Management System usnig Django for storing and Managing information like Personal details and Hiring date of all the Employees. 
+Built a Office Emplyee Management System using Django for storing and Managing information like Personal details and Hiring date of all the Employees. 
 CRUD Operations are used so that the admin can Create, View , Filter, Delete Employes based on the requirement. 
 
 TechStack Used:
