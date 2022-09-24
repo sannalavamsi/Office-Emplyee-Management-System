@@ -1,7 +1,6 @@
 # Office-Emplyee-Management-System---Django
-
-By this Project we can create information like Personal details and Hiring date about all the Employees. 
-CRUD Operations so that the admin can Create, View , Filter, Delete Employes based on the requirement. 
+Built a Office Emplyee Management System usnig Django for storing and Managing information like Personal details and Hiring date of all the Employees. 
+CRUD Operations are used so that the admin can Create, View , Filter, Delete Employes based on the requirement. 
 
 TechStack Used:
 
