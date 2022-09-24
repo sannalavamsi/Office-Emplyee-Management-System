@@ -26,7 +26,7 @@ SECRET_KEY = 'y1(s^cb6f()i#q$_hk8m!&1-!&pz9kj#v199l(n%2*d^-!z4k6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['vamsi-empmanagement.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['vamsi-empmanagement.herokuapp.com','127.0.0.1']
 
 
 # Application definition
